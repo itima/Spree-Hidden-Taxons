@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_hidden_taxons'
-  s.version     = '1.1.3'
+  s.version     = '2.0.0'
   s.summary     = 'Spree Hidden Taxons'
   s.description = 'Spree extension to allow Taxons to not be shown in menus but still accessible via slug'
   s.required_ruby_version = '>= 1.8.7'
